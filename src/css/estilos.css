@@ -28,6 +28,11 @@ main .personagem .imagem{
     object-fit: cover;
 }
 
+main .personagem .imagem.imagemUsopp{
+    object-position: 40%;
+    width: 200%;
+}
+
 .conteudo{
     position: absolute;
     top: 0;
