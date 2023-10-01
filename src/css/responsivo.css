@@ -40,6 +40,11 @@
         object-position: 60%;
     }
 
+    main .personagem .imagem.imagemUsopp{
+        object-position: 10%;
+        transform: scaleX(1);
+    }
+
     .conteudo .logo{
         width: 170px;
         height: 75px;
