@@ -19,7 +19,6 @@ botoes.forEach((botao, indice) =>{
     botao.addEventListener("click", () => {
         desselecionarBotao();
         desselecionarPersonagem();
-        console.log(botao ,indice)
 
         botao.classList.add("selecionado");        
         personagens[indice].classList.add('selecionado')
